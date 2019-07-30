@@ -1,3 +1,1 @@
-## Hoang Kim Nguyen
-
-_yay_
+I am a Postdoc at the SFB [Higher Invariants](./https://www-app.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/SFB1085) at the [University of Regensburg](./https://www.uni-regensburg.de/index.html.en), working in the group of [Denis-Charles Cisinski](./https://www.mathematik.uni-regensburg.de/cisinski/).
