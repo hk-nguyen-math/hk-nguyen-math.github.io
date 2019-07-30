@@ -3,3 +3,5 @@ I am a Postdoc at the SFB [Higher Invariants](https://www-app.uni-regensburg.de/
 I received my PhD in 2018 from the University of Regensburg under the supervision of [George Raptis](https://graptismath.net) and [Uli Bunke](https://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/Bunke/index.html).
 
 ### Papers and preprints
+
+* Adjoint functor theorems for &infin;-categories
