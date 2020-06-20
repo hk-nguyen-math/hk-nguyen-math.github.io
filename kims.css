@@ -56,6 +56,12 @@ a:hover {
     min-height: 100%
 }
 
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
 @media (max-width: 800px) {
     .container {
         max-width: 600px;
