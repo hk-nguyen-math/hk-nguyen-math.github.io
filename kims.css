@@ -71,6 +71,10 @@ a:hover {
         max-width: 600px;
         transition: 0.3s ease all
     }
+    .navigation {
+        max-width: 600px;
+        transition: 0.3s ease all
+    }
 }
 
 @media (max-width: 650px) {
@@ -83,5 +87,8 @@ a:hover {
 
     .navbar-ul {
         margin-top: 5px
+    }
+    .navigation {
+        max-width: 83%
     }
 }
