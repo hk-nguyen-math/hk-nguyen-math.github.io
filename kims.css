@@ -1,14 +1,13 @@
 @font-face {
-    font-family:'iA Writer Duospace';
-    src: url('iA Writer Duospace Regular.eot');
-	src: url('iA Writer Duospace Regular.eot?#iefix') format('embedded-opentype'),
-		url('iA Writer Duospace Regular.woff2') format('woff2'),
-		url('iA Writer Duospace Regular.woff') format('woff'),
-		url('iA Writer Duospace Regular.svg#iA Writer Duospace Regular') format('svg');
-    font-weight: 400;
+    font-family: 'liberation_monoregular';
+    src: url('LiberationMono-Regular-webfont.eot');
+    src: url('LiberationMono-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LiberationMono-Regular-webfont.woff2') format('woff2'),
+         url('LiberationMono-Regular-webfont.woff') format('woff'),
+         url('LiberationMono-Regular-webfont.ttf') format('truetype'),
+         url('LiberationMono-Regular-webfont.svg#liberation_monoregular') format('svg');
+    font-weight: normal;
     font-style: normal;
-    font-stretch: normal;
-    unicode-range: U+0020-00FE;
 }
 
 html {
@@ -20,7 +19,8 @@ html {
 body {
     margin: 0;
     height: 100%;
-    font-family: "iA Writer Duospace", "Courier New";
+    font-family: "liberation_monoregular", "Courier New";
+    line-height: 1.5 ;
     background-color: WhiteSmoke
 }
 
