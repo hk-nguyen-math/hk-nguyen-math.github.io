@@ -10,6 +10,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'iA Writer Duospace';
+    src: url('iA Writer Duospace Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html {
     height: 100%;
     margin: 0;
@@ -19,7 +26,7 @@ html {
 body {
     margin: 0;
     height: 100%;
-    font-family: "liberation_monoregular", "Courier New";
+    font-family: "iA Writer Duospace", "Courier New";
     line-height: 1.5 ;
     background-color: WhiteSmoke
 }
